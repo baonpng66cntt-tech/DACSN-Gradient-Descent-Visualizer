@@ -1,0 +1,6 @@
+# Gradient Descent Visualizer - DACSN
+# Yêu cầu: Python 3.12 trở lên (tkinter đã có sẵn trong Python)
+
+numpy>=1.26
+matplotlib>=3.8
+pillow>=10.0
